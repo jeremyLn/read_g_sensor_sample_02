@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookBackground", "HookBackground\HookBackground.vcxproj", "{53656B8E-79D9-482A-822B-7C8DB3CA5669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Debug|Win32.Build.0 = Debug|Win32
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Debug|x64.ActiveCfg = Debug|x64
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Debug|x64.Build.0 = Debug|x64
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Release|Win32.ActiveCfg = Release|Win32
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Release|Win32.Build.0 = Release|Win32
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Release|x64.ActiveCfg = Release|x64
+		{53656B8E-79D9-482A-822B-7C8DB3CA5669}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13A43688-A384-471C-82DF-E554D8998946}
+	EndGlobalSection
+EndGlobal
